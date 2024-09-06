@@ -1,5 +1,5 @@
 # Loreal-Sustainability-Project-SAFE
-This repository contains the work conducted by Michelle Weng, Nayeon Choi, and Hengnan Ma from the Cooper Union Advancement of Science and Art in assessing the overall sustainability of L'Oreal in a ChE447: Sustainability and Pollution Prevention course.
+This repository contains the work conducted by Michelle Weng, Nayeon Choi, and Hengnan Ma from the Cooper Union Advancement of Science and Art in assessing the overall sustainability of L'Oreal using the SAFE model (Sustainability Assessment by Fuzzy Evaluation) in a ChE447: Sustainability and Pollution Prevention course.
 ## Project Overview
 In the competitive and growing cosmetics industry, sustainability is increasingly important for both consumers and businesses. In 2022, the global cosmetics market was valued at $430 billion and is expected to reach $580 billion by 2027[1]. Despite economic challenges, the beauty market, including skincare, fragrance, makeup, and haircare, continues to expand.
 
@@ -11,7 +11,7 @@ L'Oréal, a leading multinational beauty company established in 1909, is known f
 ## Key Components
 Introduction - Explains the use of sustainability analysis in the cosmetics industry.
 
-Model Description - Lays down the SAFE method in a step-by-step manner, the methodology of calculating the overall sustainability through fuzzy analytics.
+Model Description - Lays down the SAFE model in a step-by-step manner, the methodology of calculating the overall sustainability through fuzzy analytics.
 
 Results - Interprets the final score and findings of the model. The final score is evaluated on a [0,1] scale, and the other points of interest include the best and worst performing features and the most sensitive features.
 
